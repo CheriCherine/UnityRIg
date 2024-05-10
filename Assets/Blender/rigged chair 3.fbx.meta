@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 3e102fcf44578b947b610147c5880ac1
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'RightUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: rigged chair 3(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: StandingLeftBottom
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7704902, y: 1.325802, z: -3.4063818}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: -19.972061, y: -19.972061, z: -174.1489}
+    - name: StandingLeftTop
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7599056, y: 5.839899, z: -3.4043334}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: -19.972061, y: -19.972061, z: -225.71754}
+    - name: StandingTop
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7599056, y: 7.879988, z: -1.717555}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: -19.972061, y: -19.972061, z: -144.48999}
+    - name: StandingRightBottom
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7704902, y: 1.325802, z: -0.026810646}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: -19.972061, y: -19.972061, z: -174.1489}
+    - name: StandingRightTop
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7599056, y: 5.839899, z: -0.022681186}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: -19.972061, y: -19.972061, z: -225.71754}
+    - name: LeftKnee
+      parentName: rigged chair 3(Clone)
+      position: {x: -0.013995648, y: 3.3323858, z: -3.4244413}
+      rotation: {x: -0.7071068, y: -1.2420634e-21, z: -1.2420636e-21, w: 0.7071067}
+      scale: {x: 21.473677, y: 21.473677, z: 21.473677}
+    - name: LeftLowerLeg
+      parentName: rigged chair 3(Clone)
+      position: {x: 0.00000013027811, y: 1.5650353, z: -3.410368}
+      rotation: {x: -0.7071068, y: -6.552895e-15, z: 6.289155e-15, w: 0.7071067}
+      scale: {x: -19.972063, y: -19.972063, z: -153.3459}
+    - name: LeftUpperLeg
+      parentName: rigged chair 3(Clone)
+      position: {x: 1.4005123, y: 3.3141494, z: -3.4133956}
+      rotation: {x: -0.49999997, y: 0.5000001, z: 0.50000006, w: -0.49999988}
+      scale: {x: 19.972063, y: 19.972063, z: 113.7678}
+    - name: LeftFoot
+      parentName: rigged chair 3(Clone)
+      position: {x: -0.6490025, y: -0.2057071, z: -3.4133961}
+      rotation: {x: -0.49999997, y: 0.5000001, z: 0.50000006, w: -0.49999988}
+      scale: {x: 19.972063, y: 19.972063, z: 40.419884}
+    - name: LeftAnkle
+      parentName: rigged chair 3(Clone)
+      position: {x: -0.0026015975, y: -0.20597214, z: -3.424442}
+      rotation: {x: -0.7071068, y: -1.2420634e-21, z: -1.2420636e-21, w: 0.7071067}
+      scale: {x: 21.473677, y: 21.473677, z: 21.473677}
+    - name: LeftHip
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7928607, y: 3.3323858, z: -3.4244413}
+      rotation: {x: -0.7071068, y: -1.2420634e-21, z: -1.2420636e-21, w: 0.7071067}
+      scale: {x: 21.473677, y: 21.473677, z: 21.473677}
+    - name: RightAnkle
+      parentName: rigged chair 3(Clone)
+      position: {x: -0.0026016026, y: -0.20597214, z: -0.026679518}
+      rotation: {x: -0.7071068, y: -1.2420634e-21, z: -1.2420636e-21, w: 0.7071067}
+      scale: {x: 21.473677, y: 21.473677, z: 21.473677}
+    - name: RightFoot
+      parentName: rigged chair 3(Clone)
+      position: {x: -0.6490025, y: -0.2057071, z: -0.015633583}
+      rotation: {x: -0.49999997, y: 0.5000001, z: 0.50000006, w: -0.49999988}
+      scale: {x: 19.972063, y: 19.972063, z: 40.419884}
+    - name: RightHip
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7928607, y: 3.3323858, z: -0.026679039}
+      rotation: {x: -0.7071068, y: -1.2420634e-21, z: -1.2420636e-21, w: 0.7071067}
+      scale: {x: 21.473677, y: 21.473677, z: 21.473677}
+    - name: RightKnee
+      parentName: rigged chair 3(Clone)
+      position: {x: -0.013995891, y: 3.3323858, z: -0.026679039}
+      rotation: {x: -0.7071068, y: -1.2420634e-21, z: -1.2420636e-21, w: 0.7071067}
+      scale: {x: 21.473677, y: 21.473677, z: 21.473677}
+    - name: RightLowerLeg
+      parentName: rigged chair 3(Clone)
+      position: {x: -0.0000001131757, y: 1.5650353, z: -0.012605426}
+      rotation: {x: -0.7071068, y: -6.552895e-15, z: 6.289155e-15, w: 0.7071067}
+      scale: {x: -19.972063, y: -19.972063, z: -153.3459}
+    - name: RightUpperLeg
+      parentName: rigged chair 3(Clone)
+      position: {x: 1.4005123, y: 3.3141494, z: -0.015633108}
+      rotation: {x: -0.49999997, y: 0.5000001, z: 0.50000006, w: -0.49999988}
+      scale: {x: 19.972063, y: 19.972063, z: 113.7678}
+    - name: RightLeg
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7708077, y: 3.3539293, z: -0.03704398}
+      rotation: {x: 0.5000001, y: 0.50000006, z: -0.4999999, w: -0.49999994}
+      scale: {x: 279.30038, y: 279.30038, z: 279.30038}
+    - name: Bone
+      parentName: RightLeg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.000000090245386, y: -0.000000006117637, z: 0.7106073, w: 0.70358884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: -2.4214364e-10, y: 0.012693103, z: 7.105427e-17}
+      rotation: {x: 0.00000016394434, y: -0.000000015449354, z: -0.71060705, w: 0.7035891}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLeg
+      parentName: rigged chair 3(Clone)
+      position: {x: 2.7708077, y: 3.3539293, z: -3.3973305}
+      rotation: {x: 0.5000001, y: 0.50000006, z: -0.4999999, w: -0.49999994}
+      scale: {x: 279.30038, y: 279.30038, z: 279.30038}
+    - name: Bone
+      parentName: LeftLeg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.000000090245386, y: -0.000000006117637, z: 0.7106073, w: 0.70358884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: -2.4214364e-10, y: 0.012693103, z: 7.105427e-17}
+      rotation: {x: 0.00000016394434, y: -0.000000015449354, z: -0.71060705, w: 0.7035891}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
